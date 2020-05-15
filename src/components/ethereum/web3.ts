@@ -43,7 +43,12 @@ if (typeof window.ethereum !== "undefined") {
       );
     });
 } else {
-  web3 = new Web3(window.web3.currentProvider);
+  try {
+    web3 = new Web3(window.web3.currentProvider);
+  } catch (err) {
+    console.log("No Web3 instance found.")
+    web3 = null;
+  }
 }
 
 export default web3;

@@ -236,7 +236,7 @@ export const useGame = () => {
       gameCondition: null,
     });
     setGameData({});
-  }, [setGameData, options, setGameOptions]);
+  }, [setGameData, setGameOptions]);
 
   return { startGame, moveValidator, moveMarker, endGame };
 };
