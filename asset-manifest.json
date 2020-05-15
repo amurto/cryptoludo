@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/cryptoludo/static/css/main.53e00362.chunk.css",
-    "main.js": "/cryptoludo/static/js/main.b2aa1d7e.chunk.js",
-    "main.js.map": "/cryptoludo/static/js/main.b2aa1d7e.chunk.js.map",
+    "main.css": "/cryptoludo/static/css/main.b35a11b6.chunk.css",
+    "main.js": "/cryptoludo/static/js/main.f5a20597.chunk.js",
+    "main.js.map": "/cryptoludo/static/js/main.f5a20597.chunk.js.map",
     "runtime-main.js": "/cryptoludo/static/js/runtime-main.27d00bbf.js",
     "runtime-main.js.map": "/cryptoludo/static/js/runtime-main.27d00bbf.js.map",
     "static/css/2.10f67ca9.chunk.css": "/cryptoludo/static/css/2.10f67ca9.chunk.css",
-    "static/js/2.f3cbfd58.chunk.js": "/cryptoludo/static/js/2.f3cbfd58.chunk.js",
-    "static/js/2.f3cbfd58.chunk.js.map": "/cryptoludo/static/js/2.f3cbfd58.chunk.js.map",
+    "static/js/2.55dbfce6.chunk.js": "/cryptoludo/static/js/2.55dbfce6.chunk.js",
+    "static/js/2.55dbfce6.chunk.js.map": "/cryptoludo/static/js/2.55dbfce6.chunk.js.map",
     "index.html": "/cryptoludo/index.html",
-    "precache-manifest.520a56af3fcc86572e58f910b95553f8.js": "/cryptoludo/precache-manifest.520a56af3fcc86572e58f910b95553f8.js",
+    "precache-manifest.292b0bc355b8f116224f60bf2fe3fe78.js": "/cryptoludo/precache-manifest.292b0bc355b8f116224f60bf2fe3fe78.js",
     "service-worker.js": "/cryptoludo/service-worker.js",
     "static/css/2.10f67ca9.chunk.css.map": "/cryptoludo/static/css/2.10f67ca9.chunk.css.map",
-    "static/css/main.53e00362.chunk.css.map": "/cryptoludo/static/css/main.53e00362.chunk.css.map",
-    "static/js/2.f3cbfd58.chunk.js.LICENSE.txt": "/cryptoludo/static/js/2.f3cbfd58.chunk.js.LICENSE.txt"
+    "static/css/main.b35a11b6.chunk.css.map": "/cryptoludo/static/css/main.b35a11b6.chunk.css.map",
+    "static/js/2.55dbfce6.chunk.js.LICENSE.txt": "/cryptoludo/static/js/2.55dbfce6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.27d00bbf.js",
     "static/css/2.10f67ca9.chunk.css",
-    "static/js/2.f3cbfd58.chunk.js",
-    "static/css/main.53e00362.chunk.css",
-    "static/js/main.b2aa1d7e.chunk.js"
+    "static/js/2.55dbfce6.chunk.js",
+    "static/css/main.b35a11b6.chunk.css",
+    "static/js/main.f5a20597.chunk.js"
   ]
 }
