@@ -158,7 +158,6 @@ export const useGame = () => {
 
   const moveMarker = useCallback(
     async (pos, color) => {
-      console.log(await contract.methods.isGame().call());
       let diceThrow = options.throw;
       let j = markers.indexOf(pos);
 
@@ -227,7 +226,6 @@ export const useGame = () => {
   );
 
   const endGame = useCallback(() => {
-    console.log(options);
     setGameOptions({
       isGame: false,
       playersLength: 0,

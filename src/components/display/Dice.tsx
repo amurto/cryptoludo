@@ -55,7 +55,6 @@ const Dice = () => {
     } else {
       rollResult = Math.floor(Math.random() * 6 + 1);
     }
-    console.log(rollResult)
     moveValidator(rollResult)
     return rollResult;
   };
